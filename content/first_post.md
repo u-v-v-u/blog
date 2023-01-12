@@ -1,6 +1,11 @@
 +++
 title = "First blog post!"
+description = "A test post"
 date = 2022-01-12
+updated = 2022-01-12
+
+[taxonomies]
+tags = ["artiefuzzz"]
 +++
 
 # Testing
