@@ -22,10 +22,10 @@ highlight_theme = "ayu-dark"
 
 [extra]
 # Put all your custom variables here
-
+after_dark_title = "UvvU Blog."
 after_dark_menu = [
   { url = "$BASE_URL", name = "Home" },
-  { url = "https://github.com/u-v-v-u", name = "Github" }
+  { url = "https://github.com/u-v-v-u", name = "Github" },
   { url = "$BASE_URL/categories", name = "Categories" },
   { url = "$BASE_URL/tags", name = "Tags" },
 ]
