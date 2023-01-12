@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title> - artiefuzzz</title>
+	<link href="https://blog.uvvu.pw/tags/artiefuzzz/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://blog.uvvu.pw"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2022-01-12T00:00:00+00:00</updated>
+	<id>https://blog.uvvu.pw/tags/artiefuzzz/atom.xml</id>
+	<entry xml:lang="en">
+		<title>First blog post!</title>
+		<published>2022-01-12T00:00:00+00:00</published>
+		<updated>2022-01-12T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://blog.uvvu.pw/first-post/" type="text/html"/>
+		<id>https://blog.uvvu.pw/first-post/</id>
+		<content type="html">&lt;h1 id=&quot;testing&quot;&gt;Testing&lt;&#x2F;h1&gt;
+&lt;p&gt;I used Zola for generating this whole website. I also used the after-dark theme which looks nice.&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;rust&quot; style=&quot;background-color:#0f1419;color:#bfbab0;&quot; class=&quot;language-rust &quot;&gt;&lt;code class=&quot;language-rust&quot; data-lang=&quot;rust&quot;&gt;&lt;span&gt;  &lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff7733;&quot;&gt;fn &lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb454;&quot;&gt;main&lt;&#x2F;span&gt;&lt;span&gt;() {
+&lt;&#x2F;span&gt;&lt;span&gt;    &lt;&#x2F;span&gt;&lt;span style=&quot;color:#f07178;&quot;&gt;println!&lt;&#x2F;span&gt;&lt;span&gt;(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#c2d94c;&quot;&gt;&amp;quot;Hello, World!&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;)&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bfbab0cc;&quot;&gt;;
+&lt;&#x2F;span&gt;&lt;span&gt;  }
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+</content>
+	</entry>
+</feed>
